@@ -1,0 +1,12 @@
+\documentclass{a4paper,11pt]{article}
+\begin{document}
+\title{%
+  \large Seminar Development & Growth \\
+\author{Anne van de Vorst and Bart de Geus}
+\date{today}
+\maketitle
+
+
+\section{Introduction}
+
+\end{document}
